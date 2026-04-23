@@ -29,3 +29,14 @@ The project is designed with a clean, modular structure:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Drive-Thrive.git](https://github.com/YOUR_USERNAME/Drive-Thrive.git)
+   
+👨‍💻 Development Team
+This project was designed and developed by the following team in accordance with software engineering principles:
+
+Sami Öztürk - Project Manager & Database Designer
+
+Taha Bozkurt - Lead Backend Developer
+
+Andaç Bülent Keskin - Frontend / UI Developer
+
+Efe Köse - Documentation & QA Tester
