@@ -18,3 +18,14 @@ This system allows users to rent vehicles for specific dates or optionally hire 
 * **GUI (Interface):** Java Swing (JFrame)
 * **Architecture:** Object-Oriented Programming (Inheritance, Polymorphism, Encapsulation)
 * **Development Environment:** Eclipse IDE / VS Code
+## 📁 Project Structure (Packages)
+The project is designed with a clean, modular structure:
+* `com.drivethrive.models`: Data models and classes (User, Customer, Driver, Vehicle, StandardCar, LuxuryCar).
+* `com.drivethrive.services`: Business logic and algorithms (AuthService, BookingManager).
+* `com.drivethrive.ui`: Graphical User Interface windows (LoginScreen, RegisterScreen, Dashboards).
+* `com.drivethrive.main`: The main application runner class.
+
+## ⚙️ Installation & Execution
+1. Clone this repository to your local machine:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/Drive-Thrive.git](https://github.com/YOUR_USERNAME/Drive-Thrive.git)
